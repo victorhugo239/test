@@ -1,0 +1,206 @@
+
+.icon1 {
+    width: 100px;
+}
+
+.text1{
+    color:  #4CAF50;
+    margin-left: 10%;
+    font-size: 30px;
+    font-family: 'Roboto Medium 500', sans-serif;
+    margin-top: -65px;
+}
+
+hr{
+   border-color: rgb(192, 192, 192);
+   box-sizing: border-box;
+   width: 100%; 
+   
+}
+
+h1{
+    margin-left: 25%;
+    margin-top: -130px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+h4{
+    margin-left: 25%;
+    font-size: 22px;
+    margin-top: -20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.imgtop {
+    width: 20%;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+
+
+
+.price{
+    color: rgb(59, 119, 199);
+    margin-left: 25%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-top: -20px;
+}
+
+
+
+
+.input1{
+    width: 90%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 13px;
+}  
+
+.input2{
+    width: 90%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 13px;
+}  
+
+.input3{
+    width: 90%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 13px;
+}  
+
+.input4{
+    width: 90%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 13px;
+}  
+
+
+.input5{
+    width: 15%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 13px;
+}
+
+.input6{
+    width: 70%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 13px;
+    margin-left: 20px;
+}
+
+
+
+
+
+.input7{
+    width: 90%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 13px;
+}  
+
+.icons2{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.year{
+    width: 15%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 13px;
+    margin-left: 30px;
+}
+
+
+.month{
+    width: 15%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 13px;
+    margin-left: 40px;
+}
+
+
+
+.input10{
+    width: 50%;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 13px;
+    margin-left: 40px;
+
+    
+}
+
+.text3{
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+
+.button{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 30px 370px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+
+
+.selos {
+    width: 70%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
